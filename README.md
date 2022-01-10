@@ -1,4 +1,4 @@
-# gripper_pddl
+# Ai programs
 
 The file is written in pddl. It should solve the problem of path planning. 
 
